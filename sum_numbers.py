@@ -4,5 +4,5 @@ def sum_numbers(*args):
     If no arguments are passed, returns 0.
     """
 
-     total = sum(args)
+    total = sum(args)
     return total
